@@ -1,0 +1,41 @@
+.btn{
+    background-color: blue;
+    margin-left: 10px;
+    color: white;
+}
+
+body{
+    justify-content: center;
+    background-color: rgba(0, 255, 255, 0.464);
+}
+
+.col-md-5{
+    justify-content: center;
+    margin-left: 380px;
+}
+
+.col-md-7{
+    justify-content: center;
+    margin-left: 280px;
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+    
+    border-radius: 5px;
+    border-bottom: 3px solid rgb(8, 8, 8);
+}
+.table-responsive{
+    box-shadow: 0px 0px 20px;
+    border-radius: 20px;
+}
+
+.bg-light{
+    box-shadow: 0px 0px 20px rgb(38, 38, 38);
+    border-radius: 20px;
+}
+.text-center{
+    text-align: center;
+    color: blue;
+    padding-bottom: 10px;
+}
